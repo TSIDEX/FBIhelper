@@ -7,4 +7,4 @@ Moonloader v.027.0-preview3
 SAMPFUNCS v5.4.1-final
 
 Библиотеки:
-moonloader, sampfuncs, mimgui, ffi, windows.message, encoding, vkeys, samp.events, game.weapons, vkeys, imgui_piemenu (MIMGUI version), memory, inicfg, fAwesome5, matrix3x3, vector3d
+mimgui, ffi, windows.message, encoding, vkeys, samp.events, game.weapons, vkeys, imgui_piemenu (MIMGUI version), memory, inicfg, fAwesome5, matrix3x3, vector3d
