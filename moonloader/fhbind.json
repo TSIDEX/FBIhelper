@@ -1,0 +1,207 @@
+[
+  {
+    "button": [
+      [
+        18,
+        48
+      ]
+    ],
+    "wait": 1200,
+    "name": "lock",
+    "text": "/lock 1"
+  },
+  {
+    "button": [
+      [
+        17,
+        55
+      ]
+    ],
+    "wait": 1412,
+    "name": "fbi",
+    "text": "/fbisp"
+  },
+  {
+    "button": [
+      [
+        18,
+        76
+      ]
+    ],
+    "wait": 645,
+    "name": "armoff",
+    "text": "/armoff"
+  },
+  {
+    "button": [
+      [
+        114
+      ]
+    ],
+    "wait": 484,
+    "name": "meg",
+    "text": "/meg"
+  },
+  {
+    "button": [
+      [
+        113
+      ]
+    ],
+    "wait": 1200,
+    "name": "krik",
+    "text": "/krik"
+  },
+  {
+    "button": [
+      [
+        18,
+        50
+      ]
+    ],
+    "wait": 1200,
+    "name": "cuff",
+    "text": "/cuff {id_marker}"
+  },
+  {
+    "button": [
+      [
+        18,
+        51
+      ]
+    ],
+    "wait": 1200,
+    "name": "ptpl",
+    "text": "/putpl {id_marker}"
+  },
+  {
+    "button": [
+      [
+        18,
+        52
+      ]
+    ],
+    "wait": 1200,
+    "name": "hold",
+    "text": "/hold {id_marker}"
+  },
+  {
+    "button": [
+      [
+        18,
+        53
+      ]
+    ],
+    "wait": 1200,
+    "name": "search",
+    "text": "/search {id_marker} первичный"
+  },
+  {
+    "button": [
+      [
+        66
+      ]
+    ],
+    "wait": 1200,
+    "name": "дорогу",
+    "text": "/dor"
+  },
+  {
+    "button": [
+      [
+        17,
+        57
+      ]
+    ],
+    "wait": 1200,
+    "name": "wanted",
+    "text": "/wanted 1"
+  },
+  {
+    "button": [
+      [
+        17,
+        50
+      ]
+    ],
+    "wait": 1200,
+    "name": "uncuff",
+    "text": "/uncuff {id_marker}"
+  },
+  {
+    "button": [
+      [
+        17,
+        51
+      ]
+    ],
+    "wait": 1200,
+    "name": "eject",
+    "text": "/eject {id_marker}"
+  },
+  {
+    "button": [
+      [
+        17,
+        52
+      ]
+    ],
+    "wait": 1200,
+    "name": "arrest",
+    "text": "/arrest {id_marker} постановление агента"
+  },
+  {
+    "button": [
+      [
+        18,
+        84
+      ]
+    ],
+    "wait": 1200,
+    "name": "msk",
+    "text": "/masksp"
+  },
+  {
+    "button": [
+      [
+        18,
+        75
+      ]
+    ],
+    "wait": 1200,
+    "name": "drop",
+    "text": "/drop"
+  },
+  {
+    "button": [
+      [
+        18,
+        82
+      ]
+    ],
+    "wait": 1200,
+    "name": "heal",
+    "text": "/healmesp"
+  },
+  {
+    "button": [
+      [
+        189
+      ]
+    ],
+    "wait": 0,
+    "name": "res",
+    "text": "/reset"
+  },
+  {
+    "button": [
+      [
+        17,
+        56
+      ]
+    ],
+    "wait": 1200,
+    "name": "sm2",
+    "text": "/smt"
+  }
+]
